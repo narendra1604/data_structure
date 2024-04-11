@@ -1,0 +1,15 @@
+ds: way to store and orgaanize the data so that it can be acceess effectively
+1) we can retrive and access the data speedly
+
+BUILT IN ds
+1) list
+2)tuple
+3)store
+4)dict
+
+USER DEFINED ds
+1)stack
+2)queue
+3)linked list
+4)tree
+5)graph
